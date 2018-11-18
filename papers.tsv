@@ -1,3 +1,9 @@
 Year	Month	Abbr.	Title	Arxiv	Ref_Code	Watches	Stars	Forks
 2018	11	R2D2	Recurrent Experience Replay in Distributed Reinforcement Learningÿ	https://openreview.net/forum?id=r1lyTjAqYX				
 2018	11	RND	Exploration by random distillation	https://openreview.net/forum?id=H1lJJnR5Ym				
+2017	10	Rainbow DQN	Rainbow: Combining Improvements in Deep Reinforcement Learning	https://arxiv.org/abs/1710.02298				
+2017	07	PPO	Proximal Policy Optimization Algorithms	https://arxiv.org/abs/1707.06347				
+2015	02	TRPO	Trust Region Policy Optimization	https://arxiv.org/abs/1502.05477				
+2013	12	DQN	Playing Atari with Deep Reinforcement Learning	https://arxiv.org/abs/1312.5602				
+2018	03	WorldModel	World Models	https://arxiv.org/abs/1803.10122				
+2018	06	RUDDER	RUDDER: Return Decomposition for Delayed Rewards	https://arxiv.org/abs/1806.07857				
