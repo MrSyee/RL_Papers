@@ -1,4 +1,4 @@
-# Reinforcement Papers
+# Reinforcement Learning Papers
 
 강화학습 Paper들을 정리합니다.
 
