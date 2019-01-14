@@ -24,7 +24,7 @@ def update_readme(gans):
     """ Update the Readme.md text file from a Jinja2 template """
     import jinja2 as j2
 
-    gans.sort(key=lambda v: v['Title'].upper())
+    gans.sort(key=lambda v: (str(v['Year'])+str(v['Month'])).upper())
     j2_env = j2.Environment(loader=j2.FileSystemLoader('.'),
                             trim_blocks=True, lstrip_blocks=True)
 

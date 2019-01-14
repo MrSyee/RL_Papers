@@ -3,7 +3,7 @@
 강화학습 Paper들을 정리합니다.
 
 {% for gan in gans %}
-* {{ gan['Title'] }} ({{ gan['Abbr.'] }}) [{{ gan['Year']}}.{{gan['Month']}}]
+* [{{ gan['Abbr.'] }}] {{ gan['Title'] }} [{{ gan['Year']}}.{{gan['Month']}}]
   - paper : {{ gan['Arxiv'] }}  
   - github :
   {%- if gan['Ref_Code'] != '-' -%}
